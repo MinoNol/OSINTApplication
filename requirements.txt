@@ -2,6 +2,9 @@ praw
 nltk
 flair
 wheel
+pillow
+Jinja2
+aiohttp
 easygui
 selenium
 matplotlib
