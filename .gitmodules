@@ -1,0 +1,3 @@
+[submodule "maigret"]
+	path = maigret
+	url = https://github.com/soxoj/maigret

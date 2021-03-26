@@ -1,0 +1,4 @@
+- Create a conda environment, with Python 3.8.
+- Run "pip install -r requirements.txt"
+- Run "pip install -r maigret/requirements.txt"
+- Run the program with the conda environment in VSCode.

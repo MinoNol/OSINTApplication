@@ -1,0 +1,11 @@
+praw
+nltk
+flair
+wheel
+easygui
+selenium
+matplotlib
+numpy==1.19.5
+python-twitter
+python-Levenshtein
+chromedriver-autoinstaller
